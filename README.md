@@ -1,4 +1,4 @@
-## information source
+## thanks
 
 * css/github.css
     * https://gist.github.com/andyferra/2554919
